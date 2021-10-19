@@ -1,5 +1,7 @@
 # Agua Potavel
 
+Modelo com 68 % de accuracia
+
 ## Contexto
 O acesso à água potável é essencial para a saúde, um direito humano básico e um componente de uma política eficaz de proteção à saúde. Isso é importante como uma questão de saúde e desenvolvimento em nível nacional, regional e local. Em algumas regiões, foi demonstrado que os investimentos em abastecimento de água e saneamento podem gerar um benefício econômico líquido, uma vez que as reduções nos efeitos adversos à saúde e nos custos de saúde superam os custos de empreender as intervenções.
 Content
